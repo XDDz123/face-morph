@@ -32,5 +32,6 @@ For each pixel within each triangle in the intermediate mesh, use the matrices t
 Then fill in the intermediate image by blending the colors of the corresponding pixels based on (1 - w) * A_pixel + w * B_pixel.</br> </br>
 ![image](https://github.com/XDDz123/face-morph/assets/20507222/f548a34b-b468-4371-9793-edd9b7c33aa5)
 
-### Results
+## Results
+Here is a sample output from the program.
 ![meshed](https://github.com/XDDz123/face-morph/assets/20507222/3d5f9657-a28f-4cd9-92d7-a0b966113a28)
